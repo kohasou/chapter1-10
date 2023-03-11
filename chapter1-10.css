@@ -76,9 +76,10 @@ footer{
   }
 
   .box{
-    width: 90%;
+    width: 100%;
     margin-bottom: 20px;
-    margin-right: 0;
+    margin-right: 25px;
+    margin-left: 25px;
   }
 
   .box:last-child{
