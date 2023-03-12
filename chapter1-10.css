@@ -76,16 +76,14 @@ footer{
   }
 
   .box{
-    width: 100%;
-    margin-bottom: 20px;
-    margin-right: 25px;
-    margin-left: 25px;
+    width: 90%;
+    margin: 0 5% 20px;
   }
 
   .box:last-child{
     margin-bottom: 0;
   }
-
+  
   footer{
     width: 100%;
   }
